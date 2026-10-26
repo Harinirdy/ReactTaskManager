@@ -67,3 +67,6 @@ Tasks are stored in the browser using localStorage. They remain available after 
 
 Harini Loka
 
+## Screenshot
+
+![Task Manager Screenshot](screenshot.png)
