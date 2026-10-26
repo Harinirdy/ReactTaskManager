@@ -269,13 +269,7 @@ statusFilter !== "All"
             onChange={() => handleToggleTask(index)}
           />
 
-          <span
-            style={{
-              textDecoration: task.completed
-                ? "line-through"
-                : "none",
-            }}
-          >
+          <span>
             {task.title}
             {" "} - Priority: {task.priority}
             {" "} - Due Date: {task.dueDate}
