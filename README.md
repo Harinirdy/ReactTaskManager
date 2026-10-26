@@ -11,8 +11,7 @@ A task management application built using React and Vite. This application helps
 - Add due dates and identify overdue tasks
 - Search tasks by name
 - Filter tasks by priority and status
-- Sort tasks<img width="1353" height="587" alt="screenshot png" src="https://github.com/user-attachments/assets/a2bbfc9a-cc38-43ba-904a-8db98366944e" />
-
+- Sort tasks
 - View task statistics and progress
 - Save tasks in the browser using localStorage
 - Responsive user interface
@@ -64,10 +63,11 @@ Install Node.js and npm before running the project.
 
 Tasks are stored in the browser using localStorage. They remain available after refreshing the page in the same browser, unless the stored data is cleared.
 
+## Screenshot
+
+![React Task Manager Screenshot](screenshot.png)
+
 ## Author
 
 Harini Loka
 
-## Screenshot
-
-![Task Manager Screenshot](screenshot.png)
