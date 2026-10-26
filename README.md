@@ -11,7 +11,8 @@ A task management application built using React and Vite. This application helps
 - Add due dates and identify overdue tasks
 - Search tasks by name
 - Filter tasks by priority and status
-- Sort tasks
+- Sort tasks<img width="1353" height="587" alt="screenshot png" src="https://github.com/user-attachments/assets/a2bbfc9a-cc38-43ba-904a-8db98366944e" />
+
 - View task statistics and progress
 - Save tasks in the browser using localStorage
 - Responsive user interface
